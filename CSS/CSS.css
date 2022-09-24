@@ -1,0 +1,102 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+nav{
+    background-color: #303030;
+}
+#search-btn{
+    background-color: #e8631c;
+}
+.hero-part{
+    background: url(../Image/Musicology-Man.png) no-repeat center;
+    background-size: cover;
+    color: #fff;
+    padding: 400px 0px 20px;
+}
+#hero-part-btn{
+    background-color: #e8631c;
+}
+.title{
+    font-size: 100px;
+    font-weight: 700;
+}
+
+#about{
+    background-image: url(../Image/Dance-back-image-1.png);
+    background-size: cover;
+}
+.card{
+    background-color: #303030;
+}
+.card1{
+    background-color: #e8631c;
+}
+#pricing-btn{
+    background-color: #303030;
+
+}
+
+#pricing{
+    background-image: url(../Image/Pricing-back.png);
+}
+/* .pricing-p{
+    margin-left: 20%;
+} */
+#amazing{
+    background-color: #282828;
+}
+.amazing-writing-part{
+    background-image: url(../Image/Amazing-back1.png);
+    
+}
+#amazing-btn{
+    background-color: #303030;
+}
+
+.card-h1{
+    font-size: 60px;
+    font-weight: 700;
+    padding: 20px 0px 20px;
+}
+.card-amazing{
+    padding-left: 60px;
+}
+#best-dance{
+    background-color: #282828;
+}
+.best-dance-writing-part{
+    background-image: url(../Image/Amazing-back-22.png);
+    
+}
+.card2{
+    padding-top: 50%;
+}
+#statistic{
+    background-color: #282828;
+}
+.statistic{
+    background-color: #303030;
+}
+.about-statistic{
+    background-color: #303030;
+    padding-top: 120px;
+}
+.card-title{
+    font-size: 60px;
+    font-weight: 700;
+}
+.about-box{
+    padding-bottom: 180px;
+}
+.statistic-text{
+    padding-top: 35px;
+    line-height: 35px;
+    width: 65%;
+    margin: auto;
+}
